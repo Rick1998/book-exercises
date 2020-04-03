@@ -11,9 +11,9 @@ In this exercise you'll practice using git to clone and edit repositories, as wi
 
 5. In the `README.md` file, below these instructions, add an ordered list of what you ate for breakfast today.
 
-1. Banana
-2. Peanubutter
-3. Rice cracker
+1. Gyoza
+2. Soy Milk
+3. Egg
 
 6. Using your terminal, add and commit the changes you've made to your repository
 
